@@ -13,6 +13,14 @@ const movieSchema = new mongoose.Schema({
     type: String,
     required: true,
   },
+  description: {
+    type: String,
+    required: false,
+  },
+  wikipedia: {
+    type: String,
+    required: false,
+  }
 });
 
 module.exports= mongoose.model('Movie', movieSchema);

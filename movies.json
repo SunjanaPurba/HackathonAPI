@@ -1,55 +1,61 @@
 [
     {
-        "title": "Mad Max: Fury Road",
-        "year": 2015,
-        "image": "https://example.com/images/mad-max.jpg"
+      "title": "Mad Max: Fury Road",
+      "year": 2015,
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/6e/Mad_Max_Fury_Road.jpg",
+      "description": "In a post-apocalyptic wasteland, Max teams up with Furiosa to flee from the tyrannical Immortan Joe and his army in a high-octane chase for freedom.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mad_Max:_Fury_Road"
     },
     {
-        "title": "The Notebook",
-        "year": 2004,
-        "image": "https://example.com/images/the-notebook.jpg"
+      "title": "The Notebook",
+      "year": 2004,
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/86/Posternotebook.jpg",
+      "description": "A heartwarming tale of enduring love, chronicling the lifelong romance between Noah and Allie, who are separated by social differences and reunited years later.",
+      "wikipedia": "https://en.wikipedia.org/wiki/The_Notebook_(film)"
     },
     {
-        "title": "The Conjuring",
-        "year": 2013,
-        "image": "https://example.com/images/the-conjuring.jpg"
+      "title": "Forrest Gump",
+      "year": 1994,
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg",
+      "description": "Forrest Gump, a man with a low IQ, unintentionally influences several historical events in the 20th century United States through his simple yet profound outlook on life.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Forrest_Gump"
     },
     {
-        "title": "Forrest Gump",
-        "year": 1994,
-        "image": "https://example.com/images/forrest-gump.jpg"
+      "title": "The Hangover",
+      "year": 2009,
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/b9/Hangoverposter09.jpg",
+      "description": "After a wild bachelor party in Las Vegas, three groomsmen must retrace their steps to find their missing friend before his wedding.",
+      "wikipedia": "https://en.wikipedia.org/wiki/The_Hangover"
     },
     {
-        "title": "The Hangover",
-        "year": 2009,
-        "image": "https://example.com/images/the-hangover.jpg"
+      "title": "La La Land",
+      "year": 2016,
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/ab/La_La_Land_%28film%29.png",
+      "description": "An aspiring actress and a jazz musician fall in love while pursuing their dreams in Los Angeles, facing the challenges of balancing ambition and romance.",
+      "wikipedia": "https://en.wikipedia.org/wiki/La_La_Land"
     },
     {
-        "title": "Gladiator",
-        "year": 2000,
-        "image": "https://example.com/images/gladiator.jpg"
+      "title": "Get Out",
+      "year": 2017,
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/a3/Get_Out_poster.png",
+      "description": "A young African-American man uncovers a disturbing secret when he meets his white girlfriend's family, leading to a chilling and satirical exploration of racism.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Get_Out"
     },
     {
-        "title": "La La Land",
-        "year": 2016,
-        "image": "https://example.com/images/la-la-land.jpg"
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg",
+      "description": "Wrongly convicted of murder, banker Andy Dufresne forms a life-changing friendship with fellow inmate Red, finding hope and eventual redemption within the confines of Shawshank prison.",
+      "wikipedia": "https://en.wikipedia.org/wiki/The_Shawshank_Redemption"
     },
     {
-        "title": "Get Out",
-        "year": 2017,
-        "image": "https://example.com/images/get-out.jpg"
-    },
-    {
-        "title": "The Shawshank Redemption",
-        "year": 1994,
-        "image": "https://example.com/images/shawshank.jpg"
-    },
-    {
-        "title": "Superbad",
-        "year": 2007,
-        "image": "https://example.com/images/superbad.jpg"
+      "title": "Superbad",
+      "year": 2007,
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/8b/Superbad_Poster.png",
+      "description": "Two high school friends embark on a chaotic quest to procure alcohol for a party, aiming to impress their crushes before graduation.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Superbad_(film)"
     }
-]
+  ]
   
   
   
