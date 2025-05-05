@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Mad Max: Fury Road",
+        "year": 2015,
+        "image": "https://example.com/images/mad-max.jpg"
+    },
+    {
+        "title": "The Notebook",
+        "year": 2004,
+        "image": "https://example.com/images/the-notebook.jpg"
+    },
+    {
+        "title": "The Conjuring",
+        "year": 2013,
+        "image": "https://example.com/images/the-conjuring.jpg"
+    },
+    {
+        "title": "Forrest Gump",
+        "year": 1994,
+        "image": "https://example.com/images/forrest-gump.jpg"
+    },
+    {
+        "title": "The Hangover",
+        "year": 2009,
+        "image": "https://example.com/images/the-hangover.jpg"
+    },
+    {
+        "title": "Gladiator",
+        "year": 2000,
+        "image": "https://example.com/images/gladiator.jpg"
+    },
+    {
+        "title": "La La Land",
+        "year": 2016,
+        "image": "https://example.com/images/la-la-land.jpg"
+    },
+    {
+        "title": "Get Out",
+        "year": 2017,
+        "image": "https://example.com/images/get-out.jpg"
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "year": 1994,
+        "image": "https://example.com/images/shawshank.jpg"
+    },
+    {
+        "title": "Superbad",
+        "year": 2007,
+        "image": "https://example.com/images/superbad.jpg"
+    }
+]
+  
+  
+  
+  

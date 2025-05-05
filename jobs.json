@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Software Developer",
+        "description": "Develops and maintains software applications. Collaborates with teams to implement new features and fix bugs.",
+        "work_hours": "Full-time, Monday to Friday, 10 AM – 6 PM",
+        "salary": "$50,000"
+    },
+    {
+        "name": "Data Analyst",
+        "description": "Extracts insights from data using tools like SQL, Python, and Excel. Builds dashboards and reports for business teams.",
+        "work_hours": "Full-time, Monday to Friday, 9 AM – 5 PM",
+        "salary": "$60,000"
+    },
+    {
+        "name": "Cybersecurity Analyst",
+        "description": "Identifies and mitigates security threats, monitors systems, and implements best practices in cybersecurity.",
+        "work_hours": "Full-time, shift-based including nights/weekends",
+        "salary": "$80,000"
+    },
+    {
+        "name": "Machine Learning Engineer",
+        "description": "Builds and deploys machine learning models for automation and analytics. Works with large datasets and cloud platforms.",
+        "work_hours": "Full-time, flexible schedule with core hours 10 AM – 4 PM",
+        "salary": "$70,000"
+    },
+    {
+        "name": "DevOps Engineer",
+        "description": "Maintains CI/CD pipelines, automates deployments, and ensures high system availability and scalability.",
+        "work_hours": "Full-time, with on-call responsibilities",
+        "salary": "$75,000"
+    },
+    {
+        "name": "Front-End Developer",
+        "description": "Creates user interfaces using HTML, CSS, JavaScript, and frameworks like React or Angular.",
+        "work_hours": "Full-time, flexible remote or office hours",
+        "salary": "$55,000"
+    },
+    {
+        "name": "Back-End Developer",
+        "description": "Develops server-side applications, APIs, and databases using languages like Node.js, Python, or Java.",
+        "work_hours": "Full-time, Monday to Friday, 9 AM – 5 PM",
+        "salary": "$85,000"
+    },
+    {
+        "name": "Cloud Engineer",
+        "description": "Designs and manages cloud infrastructure on platforms like AWS, Azure, or GCP.",
+        "work_hours": "Full-time, remote optional, flexible schedule",
+        "salary": "$70,000"
+    },
+    {
+        "name": "QA Engineer",
+        "description": "Tests software products for bugs and performance issues. Develops automated test cases.",
+        "work_hours": "Full-time, Monday to Friday, flexible hours",
+        "salary": "$50,000"
+    },
+    {
+        "name": "Database Administrator",
+        "description": "Manages and optimizes databases, ensures data integrity and security, and performs backups and recovery.",
+        "work_hours": "Full-time, 9 AM – 6 PM, occasional weekend maintenance",
+        "salary": "$85,000"
+    }
+]
+  
